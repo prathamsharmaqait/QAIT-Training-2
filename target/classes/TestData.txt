@@ -1,0 +1,3 @@
+url: http://hris.qait.com
+username: prathamsharma
+password: Sharma_987

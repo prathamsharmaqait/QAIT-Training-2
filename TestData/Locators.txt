@@ -1,0 +1,24 @@
+#IndexPage
+#elementname: locatortype: locatorvalue
+
+RepaintBox2_link: linkText: Repaint Box 2
+Proceed_link: linkText: Proceed
+Box1: xpath: //div[text()='Box 1']
+Box2: xpath: //div[text()='Box 2']
+Main_Frame: xpath: //iframe[@id = 'main']
+Child_Frame: xpath: //iframe[@id='child']
+
+DragBox: xpath: //div[@id='dragbox']
+DropBox: xpath: //div[@id='dropbox']
+LaunchPopupWindow_link: linkText: Launch Popup Window
+nameTextBox: xpath: //input[@id='name']
+SubmitButton: id: submit
+
+GenerateToken_link: linkText: Generate Token
+TokenSpan: id: token
+
+BasicCourse_link: linkText: Basic Course
+GreenBox: xpath: //div[@class ='greenbox']
+
+username_TextBox: id: txtUserName
+password_TextBox: id: txtPassword

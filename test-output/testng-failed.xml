@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.qait.TATOC.AppTest">
+        <methods>
+          <include name="GriGateTest"/>
+          <include name="Cookies"/>
+          <include name="DragAndDrop"/>
+          <include name="PopUpWindows"/>
+          <include name="repaint_Box2_until_color_matches_with_Box1"/>
+          <include name="launchUrl"/>
+        </methods>
+      </class> <!-- com.qait.TATOC.AppTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
